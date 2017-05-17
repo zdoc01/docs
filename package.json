@@ -32,7 +32,7 @@
     "@npm/policies": "git://github.com/npm/policies",
     "bluebird": "^3.5.0",
     "cors": "^2.7.1",
-    "express": "^4.13.3",
+    "express": "^4.15.3",
     "handlebars-helper-equal": "^1.0.0",
     "harp": "^0.23.0",
     "hbs": "^4.0.0",
