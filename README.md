@@ -70,7 +70,7 @@ $ sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.8 50
 ```
 
 NOTE: If you have changed Node.js versions and are still getting
-and error on a supported version of Node.js, you may need to rebuild npm:
+an error on a supported version of Node.js, you may need to rebuild npm:
 
 ```
 $ npm rebuild
